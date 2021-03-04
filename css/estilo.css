@@ -1,0 +1,19 @@
+
+
+.divred {
+    width: 100%;
+    background-color: #9D64FF;
+    height: 50px;
+}
+
+.divgreen {
+    width: 100%;
+    background-color: #FFBA70;
+    height: 400px;
+}
+
+.divyellow {
+    width: 100%;
+    background-color: #4ECEFC;
+    height: 50px;
+}
